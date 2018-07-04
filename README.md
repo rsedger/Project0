@@ -1,2 +1,3 @@
-# Project0
-Harvard CS50W First Project
+# Project 0
+
+Web Programming with Python and JavaScript
