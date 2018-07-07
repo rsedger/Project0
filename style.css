@@ -4,3 +4,10 @@
     background-color: lightblue;
     border: 2px solid black;
 }
+
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 8px;
+    border-color: black;
+}
